@@ -1,0 +1,572 @@
+1- 
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+	 WORKING HOUR
+ Sunday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Friday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+
+Please Enter Your Name: nurin
+Please Enter Your IC: 12345
+Please Enter Your Address: uum,sintok
+Please Enter Your Phone Number: 0143537892
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) Y
+
+  HAIR QUIZ  
+
+What is your hair type? 
+1. straight
+2. curl 
+3. wavy
+
+Enter your answer for question 1: 3
+
+My hair is : 
+1. natural
+2. bleached
+3. permed
+4. Straightening
+
+Enter your answer for question 2: 2
+
+What is your main hair problem? 
+1. Damaged hair
+2. Coloured hair
+3. Frizzy hair
+4. Thinning hair
+5. Dry hair 
+6. Dull hair
+
+Enter your answer for question 3: 4
+
+What is your weather ?: 
+1. sunny
+2. snowy 
+3. mix
+
+Enter your answer for question 4: 1
+
+			PERSONAL DETAILS 
+
+Name      : nurin
+IC        : 12345
+No Matric : 0
+Gender    : F
+No.Tel    : 143537892
+Address   : uum,sintok
+
+
+ ^^^^^ YOUR RESULT ^^^^^ 
+
+OHH NO!! Your hair keeps thinning every day! 
+Product recommendation: 
+Thinning hair densifique thinning hair care set
+Price:RM 116.0
+
+Do you want to proceed? (Y/N) Y
+
+**********RECEIPT**********
+
+
+Thinning hair densifique thinning hair set   : RM  116.0
+Free delivery                                : RM  0.0
+
+TOTAL price to be paid : RM  116.0
+
+Thank you for your purchase!
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set appointment at 1.home or 2.salon: 2
+How many services do you want to book? 1
+Day  : monday
+Date : 23/1
+Time (system 24hours) : 1600
+
+Do you want to proceed : Y
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 3
+ 
+CHEMICAL WORK: 
+
+1.Colouring :			RM 75
+2.Perming   :			RM 80
+3.Rebonding :			RM 90
+4.Relaxing  :			RM 80
+
+
+Please enter your choice of service : 4
+
+Relaxing             : RM 80.0
+
+Do you want to proceed? Y
+
+			PERSONAL DETAILS 
+
+Name      : nurin
+IC        : 12345
+No Matric : 0
+Gender    : F
+No.Tel    : 143537892
+Address   : uum,sintok
+
+
+**********RECEIPT**********
+
+Time and Date for Appointment :monday  1600  23/1
+
+Relaxing               : RM 80.0
+Service fee            : RM 15.0
+
+
+TOTAL price to be paid : RM 95.0
+
+Thank you for your booking !
+ PS: cancel anytime
+
+
+
+Output when the customer chooses to book 2 services
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+	 WORKING HOUR
+ Sunday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Friday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+
+Please Enter Your Name: nurin
+Please Enter Your IC: 12345
+Please Enter Your Address: uum,sintok
+Please Enter Your Phone Number: 0142529591
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set appointment at 1.home or 2.salon: 2
+How many services do you want to book? 2
+Day  : saturday
+Date : 23/1
+Time (system 24hours) : 1600
+
+Do you want to proceed : Y
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 3
+ 
+CHEMICAL WORK: 
+
+1.Colouring :			RM 75
+2.Perming   :			RM 80
+3.Rebonding :			RM 90
+4.Relaxing  :			RM 80
+
+
+Please enter your choice of service : 1
+
+Colouring            : RM 75.0
+
+Do you want to proceed? Y
+
+
+
+			PERSONAL DETAILS 
+
+Name      : nurin
+IC        : 12345
+No Matric : 0
+Gender    : F
+No.Tel    : 142529591
+Address   : uum,sintok
+
+
+**********RECEIPT**********
+
+Time and Date for Appointment :saturday  1600  23/1
+
+Colouring              : RM 75.0
+Service fee            : RM 15.0
+
+
+TOTAL price to be paid : RM 90.0
+
+Thank you for your booking !
+ ps: cancel anytime
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 4
+ 
+TREATMENT: 
+
+1.Scalp Treatment  :			RM 100
+2.Relax Treatment  :			RM 115
+3.Keratin Treatment:			RM 150
+
+
+Please enter your choice of service : 1
+
+Scalp Treatment      : RM 100.0
+
+Do you want to proceed? Y
+
+			PERSONAL DETAILS 
+
+Name      : nurin
+IC        : 12345
+No Matric : 0
+Gender    : F
+No.Tel    : 142529591
+Address   : uum,sintok
+
+
+**********RECEIPT**********
+
+Time and Date for Appointment :saturday  1600  23/1
+
+Scalp Treatment        : RM 100.0
+Service fee            : RM 15.0
+
+
+TOTAL price to be paid : RM 115.0
+
+Thank you for your booking !
+ PS: cancel anytime
+
+2- 
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+	 WORKING HOUR
+ Sunday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Friday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+
+Please Enter Your Name: nurin
+Please Enter Your IC: 1234567
+Please Enter Your Address: uum,sintok
+Please Enter Your Phone Number: 0142628932
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set appointment at 1.home or 2.salon: 1
+How many services do you want to book? 1
+Day  : monday
+Date : 23/1
+Time (system 24hours) : 1600
+
+Do you want to proceed : Y
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 3
+ 
+CHEMICAL WORK: 
+
+1.Colouring :			RM 75
+2.Perming   :			RM 80
+3.Rebonding :			RM 90
+4.Relaxing  :			RM 80
+
+
+Please enter your choice of service : 3
+
+Rebonding            : RM 90.0
+Price after discount : RM 76.5
+
+Do you want to proceed? Y
+
+
+			PERSONAL DETAILS 
+
+Name      : nurin
+IC        : 1234567
+No Matric : 0
+Gender    : F
+No.Tel    : 142628932
+Address   : uum,sintok
+
+
+**********RECEIPT**********
+
+Address: uum,sintok
+Time and Date for Appointment :monday  1600  23/1
+
+Rebonding          : RM 90.0
+Transportation fee : RM 80.0
+Total Discount     : RM-13.5
+
+TOTAL price to be paid : RM156.5
+
+Thank you for your booking !
+ PS: cancel anytime
+
+
+Output when students book an appointment on weekdays
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+	 WORKING HOUR
+ Sunday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Friday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+
+Please Enter Your Name: nurin
+Please Enter Your IC: 123456
+Please Enter Your Address: uum,sintok
+Please Enter Your Phone Number: 015627734
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 287957
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set appointment at 1.home or 2.salon: 2
+How many services do you want to book? 1
+Day  : tuesday
+Date : 23/1
+Time (system 24hours) : 1100
+
+Do you want to proceed : Y
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 2
+ 
+WASH AND BLOW: 
+
+1.Wash + Blow Dry  :			RM 25
+2.Wash + Blow Curl :			RM 30
+
+
+Please enter your choice of service : 2
+
+Wash+Blow Curl       : RM 30.0
+Price after discount : RM 22.5
+
+Do you want to proceed? Y
+
+			PERSONAL DETAILS 
+
+Name      : nurin
+IC        : 123456
+No Matric : 287957
+Gender    : F
+No.Tel    : 15627734
+Address   : uum,sintok
+
+
+**********RECEIPT**********
+
+Time and Date for Appointment :tuesday  1100  23/1
+
+Wash+Blow Curl         : RM  30.0
+Service fee            : RM  15.0
+Total dicount          : RM- 7.5
+
+
+TOTAL price to be paid : RM  37.5
+
+Thank you for your booking !
+ ps: cancel anytime
+
+3- 
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+	 WORKING HOUR
+ Sunday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Friday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+
+Please Enter Your Name: NURIN
+Please Enter Your IC: 123456
+Please Enter Your Address: uum,sintok
+Please Enter Your Phone Number: 0142529591
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 287957
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set appointment at 1.home or 2.salon: 2
+
+How many serviceS do you want to book? 1
+Day  : saturday
+Date : 23/1
+Time (system 24hours) : 1100
+
+Do you want to proceed : Y
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 3
+ 
+CHEMICAL WORK: 
+
+1.Colouring :			RM 75
+2.Perming   :			RM 80
+3.Rebonding :			RM 90
+4.Relaxing  :			RM 80
+
+
+Please enter your choice of service : 3
+
+Rebonding            : RM 90.0
+Price after discount : RM 63.0
+
+Do you want to proceed? Y
+
+			PERSONAL DETAILS 
+
+Name      : NURIN
+IC        : 123456
+No Matric : 287957
+Gender    : F
+No.Tel    : 142529591
+Address   : uum,sintok
+
+
+**********RECEIPT**********
+
+Time and Date for Appointment :saturday  1100  23/1
+
+Rebonding              : RM  90.0
+Service fee            : RM  15.0
+Total dicount          : RM- 27.0
+
+
+TOTAL price to be paid : RM  78.0
+
+Thank you for your booking !
+ ps: cancel anytime
+
+output when customer wants to extend the appointment
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+	 WORKING HOUR
+ Sunday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Friday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+
+Please Enter Your Name: nurin
+Please Enter Your IC: 1234567
+Please Enter Your Address: uum,sintok
+Please Enter Your Phone Number: 019234665
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) Y
+
+1.Cancel the appointment 
+2.Extend the appointment
+
+Please enter your choice: 2
+Please set again your next appointment 
+Date : 28/2
+Time (system 24 hours) : 1100
+Day  : saturday
+
+
+
+
+
+
+
+
+
+
+
+**********RECEIPT**********
+
+Time and Date For the new Appointment :saturday  1100  28/2
+
+
+			PERSONAL DETAILS 
+
+Name      : nurin
+IC        : 1234567
+No Matric : 0
+Gender    : F
+No.Tel    : 19234665
+Address   : uum,sintok
+
+Thank you for your booking !
+ PS: cancel anytime
