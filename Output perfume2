@@ -1,0 +1,252 @@
+-->Output when user design perfume for this month 
+
+   Welcome to UUM Customized perfume Monthly Subscription System 
+
+===================================================================
+
+Enter your name: Thivya
+Enter your IC number: 000904080944
+Enter your phone number: 0125454321
+
+****************************************************
+Select one ingredient from each note
+
+  Top Notes|  Middle Notes  | Base Notes
+-------------------------------------------
+Orange     |  Chamomile     | Cedarwood
+Neroli     |  Geranium      | Pine
+Lavender   |  Juniper       | Vetiver
+
+Price of each note for 10ml, 15ml and 20ml
+
+  Top Notes    |  Middle Notes  | Base Notes
+-------------------------------------------
+10 ml - RM 3   |  10 ml - RM 5   | 10 ml - RM 2
+15 ml - RM 4.5 |  15 ml - RM 7.5 | 15 ml - RM 3
+20 ml - RM 6   |  20 ml - RM 10  | 20 ml - RM 4
+
+****************************************************
+
+Enter the ingredient for top note: Orange
+Enter the strength of top note; 1-lower 2-medium 3-higher: 1
+
+Enter the ingredient for middle note: Juniper
+Enter the strength of middle note; 1-lower 2-medium 3-higher: 2
+
+Enter the ingredient for base note: Pine
+Enter the strength of base note; 1-lower 2-medium 3-higher: 3
+
+Enter the size of bottle in ml 10 or 15 or 20: 10
+Enter a name for customized perfume: Thi
+
+****************************************************
+Your Customized perfume description
+Name of your perfume is Thi
+The size of perfume is 10 ml
+Top note is Orange
+Middle note is Juniper
+Base note is Pine
+The price of the perfume is RM 19.0
+
+****************************************************
+The same customized perfume will be delivered to you every month.
+You also can change your plan by designing new perfume for next month.
+****************************************************
+Enter 1 to continue designing the perfume for next month or 2 to checkout the price.
+
+-->Output when the perfume bottle size entered by user is 10,15 or 20 ml.
+
+Enter the size of bottle in ml 10 or 15 or 20: 10
+Enter a name for customized perfume: Thi
+
+-->Output when the perfume bottle size entered by user is not 10,15 or 20 ml.
+
+Enter the size of bottle in ml 10 or 15 or 20: 25
+Unavailable size.
+Enter the size of bottle in ml 10 or 15 or 20: 10
+Enter a name for customized perfume: Thi
+
+-->Output when user enter 1 to continue designing perfume for next month
+
+Enter 1 to continue designing the perfume for next month or 2 to checkout the price.
+1
+
+Now you can choose the ingredients and size of the perfume for next month.
+
+****************************************************
+Select one ingredient from each note
+
+  Top Notes|  Middle Notes  | Base Notes
+-------------------------------------------
+Orange     |  Chamomile     | Cedarwood
+Neroli     |  Geranium      | Pine
+Lavender   |  Juniper       | Vetiver
+
+Price of each note for 10ml, 15ml and 20ml
+
+  Top Notes    |  Middle Notes  | Base Notes
+-------------------------------------------
+10 ml - RM 3   |  10 ml - RM 5   | 10 ml - RM 2
+15 ml - RM 4.5 |  15 ml - RM 7.5 | 15 ml - RM 3
+20 ml - RM 6   |  20 ml - RM 10  | 20 ml - RM 4
+
+****************************************************
+
+Enter the ingredient for top note: Neroli
+Enter the strength of top note; 1-lower 2-medium 3-higher: 2
+
+Enter the ingredient for middle note: Geranium
+Enter the strength of middle note; 1-lower 2-medium 3-higher: 1
+
+Enter the ingredient for base note: Vetiver
+Enter the strength of base note; 1-lower 2-medium 3-higher: 3
+
+Enter the size of bottle in ml 10 or 15 or 20: 15
+Enter a name for customized perfume: Thi
+
+****************************************************
+Your Customized perfume description
+Name of your perfume is Thi
+The size of perfume is 15 ml
+Top note is Neroli
+Middle note is Geranium
+Base note is Vetiver
+The price of the perfume is RM 25.5
+
+****************************************************
+The same customized perfume will be delivered to you every month.
+You also can change your plan by designing new perfume for next month.
+
+****************************************************
+Enter 1 to continue designing the perfume for next month or 2 to checkout the price.
+
+-->Output when user still choose 1 after designing the perfume for next month.
+
+Enter 1 to continue designing the perfume for next month or 2 to checkout the price.
+1
+You have already designed the perfume for next month.
+Enter the number of empty bottles to get discount: 2
+Enter the location; 1 for Inside UUM or 2 for Outside UUM:  1
+Enter hostel name: InasisTnb
+
+****************************************************
+
+The total price is RM 43.95
+Thank you for ordering! The perfume for this month will be delivered in 2 working days.
+Your next order will automatically be placed on the same order date next month.
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+
+-->Output when user choose 2 to check out the price after designing perfumes for this month and next month and the location is 1.
+
+Enter 1 to continue designing the perfume for next month or 2 to checkout the price.
+2
+Enter the number of empty bottles to get discount: 2
+Enter the location; 1 for Inside UUM or 2 for Outside UUM:  1
+Enter hostel name: InasisTnb
+
+****************************************************
+
+The total price is RM 43.95
+Thank you for ordering! The perfume for this month will be delivered in 2 working days.
+Your next order will automatically be placed on the same order date next month.
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+
+-->Output when user choose 2 to check out the price after designing perfumes for this month and next month and the location is 2.
+
+Enter 1 to continue designing the perfume for next month or 2 to checkout the price.
+2
+Enter the number of empty bottles to get discount: 2
+Enter the location; 1 for Inside UUM or 2 for Outside UUM:  2
+Enter address: TamanMakmur
+
+****************************************************
+
+The total price is RM 45.95
+Thank you for ordering! The perfume for this month will be delivered in 2 working days.
+Your next order will automatically be placed on the same order date next month.
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+
+-->Output when user enter 1 to pause the subscription plan after this order. 
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+1
+How long do you want to pause the plan? (1-6 months)
+1
+The plan for next month has been paused. Thank you
+
+-->Output when user enter 1 to pause the subscription plan after this order but the months is 0 or more than 6.
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+1
+How long do you want to pause the plan? (1-6 months)
+0
+You can pause for 1 to 6 months only
+How long do you want to pause the plan? (1-6 months)
+1
+The plan for next month has been paused. Thank you
+
+-->Output when user enter 2 to unsubscribe the plan after this order and y or Y to confirm. 
+
+ Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+2
+Do you want to unsubscribe the plan? Y for yes or N for no
+y
+Your plan has been unsubscribed. Thank you
+
+-->Output when user enter 2 to unsubscribe the plan after this order and n or N to cancel back.
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+2
+Do you want to unsubscribe the plan? Y for yes or N for no
+n
+Your plan will be continued for next month. Thank you
+
+-->Output when user enter 2 to unsubscribe the plan but enter other than y,Y,n or N.
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+2
+Do you want to unsubscribe the plan? Y for yes or N for no
+o
+Wrong input
+Do you want to unsubscribe the plan? Y for yes or N for no
+
+-->Output when user enter 3 to exit the system
+
+Do you have any other operations?
+1 - Pause the plan after this order
+2 - Unsubscribe the plan after this order
+3 - No operation
+3
+Thank you for ordering.
+
+
+
+
+
